@@ -1,0 +1,12 @@
+window_sizes 1063 901 98 959 715 128
+
+diagrams
+  active  usecasediagram_ref 128012 // JouerNIM
+    1208 671 100 A4 0 0
+end
+show_stereotypes
+selected usecasediagram_ref 128012 // JouerNIM
+open
+  usecaseview_ref 128012 // JeuNim
+end
+end
